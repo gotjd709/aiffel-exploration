@@ -1,2 +1,2 @@
-# first-repository
-add new contents
+# AIffel 대전의 기록
+- 인공지능 혁신학교 AIffel에서 진행한 프로젝트들의 기록입니다!
