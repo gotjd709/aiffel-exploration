@@ -18,7 +18,7 @@ AIFFEL에서는 경쟁보다는 상생을 추구하는 자기주도적인 지원
 * Week_02
 	* [\[Day 4\] 파이썬 기초 (함수, 변수, 제어문, 리스트, 딕셔너리](https://biology-statistics-programming.tistory.com/21?category=955669)  
 	* [\[Day 5\] 가위바위보 분류하기](https://biology-statistics-programming.tistory.com/22?category=955669)  
-		* [\[E1\].Project-Scissor_Rock_Paper_Classifier.ipynb](https://github.com/gotjd709/AIffel_Daejeon/blob/master/Week_02/%20E1.Project-Scissor_Rock_Paper_Classifier.ipynb)  
+		* [\[E1\]Project-Scissor_Rock_Paper_Classifier.ipynb](https://github.com/gotjd709/AIffel_Daejeon/blob/master/Week_02/%20E1.Project-Scissor_Rock_Paper_Classifier.ipynb)  
 	* [\[Day 6\] Git으로 GitHub 파일 올리기 (레퍼지토리 안에 폴더 있을 경우)](https://biology-statistics-programming.tistory.com/23?category=955669)  
 	* [\[Day 7\] scikit-learn datasets (feat. Toy datasets 변수정보)](https://biology-statistics-programming.tistory.com/24?category=955669) 
 		* [\[E2\]Project-digits_wine_breastcancer.ipynb](https://github.com/gotjd709/AIffel_Daejeon/blob/master/Week_02/%5BE2%5DProject-digits_wine_breastcancer.ipynb)  
