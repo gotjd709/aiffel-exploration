@@ -52,7 +52,7 @@ AIFFEL에서는 경쟁보다는 상생을 추구하는 자기주도적인 지원
 ### 데이터 분석
 
 데이터 분류
-- [\[E2\]-project-Digits_Wine_Breastcancer](https://github.com/gotjd709/AIffel_Daejeon/blob/master/exploration/%5BE2%5DProject-digits_wine_breastcancer.ipynb)
+- [\[E2\]-project-Digits_Wine_Breastcancer](https://github.com/gotjd709/AIffel_Daejeon/blob/master/exploration/%5BE2%5D-project_Digits_Wine_Breastcancer.ipynb)
 	- [관련 데이터 정보](https://biology-statistics-programming.tistory.com/24?category=955669)
 
 데이터 회귀
