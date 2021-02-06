@@ -25,8 +25,8 @@ AIFFEL에서는 경쟁보다는 상생을 추구하는 자기주도적인 지원
 ### CNN 모델 사용
 
 이미지 분류
-- [\[E1\]-project-Scissor_Rock_Paper_Classifier](https://github.com/gotjd709/AIffel_Daejeon/blob/master/exploration/%5BE1%5DProject-Scissor_Rock_Paper_Classifier/%5BE1%5DProject-Scissor_Rock_Paper_Classifier.ipynb)
-	- [관련 데이터](https://github.com/gotjd709/AIffel_Daejeon/tree/master/exploration/%5BE1%5DProject-Scissor_Rock_Paper_Classifier)
+- [\[E1\]-project_Scissor_Rock_Paper_Classifier](https://github.com/gotjd709/AIffel_Daejeon/blob/master/exploration/%5BE1%5D-project_Scissor_Rock_Paper_Classifier/%5BE1%5D-project_Scissor_Rock_Paper_Classifier.ipynb)
+	- [관련 데이터](https://github.com/gotjd709/AIffel_Daejeon/tree/master/exploration/%5BE1%5D-project_Scissor_Rock_Paper_Classifier)
 	
 음성 분류
 - [\[E5\]-project_Spectrogram_Classification](https://github.com/gotjd709/AIffel_Daejeon/blob/master/exploration/%5BE5%5D-project_Spectrogram_Classification.ipynb)
@@ -39,8 +39,8 @@ AIFFEL에서는 경쟁보다는 상생을 추구하는 자기주도적인 지원
 ### RNN 모델 사용
 
 감성분석
-- [\[E4\]-project_movie_review_sentiment_Analysis](https://github.com/gotjd709/AIffel_Daejeon/blob/master/exploration/%5BE4%5Dproject_movie_review_sentiment_Analysis.ipynb)
-	- [관련 데이터]()
+- [\[E4\]-project_Movie_Review_Sentiment_Analysis](https://github.com/gotjd709/AIffel_Daejeon/blob/master/exploration/%5BE4%5D-project_Movie_Review_Sentiment_Analysis.ipynb)
+	- 관련 데이터
 
 문장생성
 - [\[E6\]-project_Lyrics_Maker](https://github.com/gotjd709/AIffel_Daejeon/blob/master/exploration/%5BE6%5D-project_Lyrics_Maker.ipynb)
@@ -52,12 +52,12 @@ AIFFEL에서는 경쟁보다는 상생을 추구하는 자기주도적인 지원
 ### 데이터 분석
 
 데이터 분류
-- [\[E2\]-project-digits_wine_breastcancer](https://github.com/gotjd709/AIffel_Daejeon/blob/master/exploration/%5BE2%5DProject-digits_wine_breastcancer.ipynb)
+- [\[E2\]-project-Digits_Wine_Breastcancer](https://github.com/gotjd709/AIffel_Daejeon/blob/master/exploration/%5BE2%5DProject-digits_wine_breastcancer.ipynb)
 	- [관련 데이터 정보](https://biology-statistics-programming.tistory.com/24?category=955669)
 
 데이터 회귀
 - \[E9\]-project_My_First_Kaggle
-	- [관련 데이터]()
+	- 관련 데이터
 
 <br/>
 <br/>
@@ -65,7 +65,7 @@ AIFFEL에서는 경쟁보다는 상생을 추구하는 자기주도적인 지원
 ### 기타
 
 얼굴인식관련
-- 스티커 부착: [\[E3\]-project-cat_whiskers_sticker](https://github.com/gotjd709/AIffel_Daejeon/blob/master/exploration/%5BE3%5Dproject-cat_whiskers_sticker.ipynb)
+- 스티커 부착: [\[E3\]-project-Cat_Whiskers_Sticker](https://github.com/gotjd709/AIffel_Daejeon/blob/master/exploration/%5BE3%5D-project_Cat_Whiskers_Sticker.ipynb)
 - 이미지 임베딩: [\[E7\]-project_Find_Similar_Celebrities](https://github.com/gotjd709/AIffel_Daejeon/blob/master/exploration/%5BE7%5D-project_Find_Similar_Celebrities.ipynb) 
 
 추천시스템
