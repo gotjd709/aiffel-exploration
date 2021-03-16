@@ -107,7 +107,7 @@ Time Series Analysis
 
 ### Recommendation System
 
-- [\[E8\]-project_Movielens_Recommandation](https://github.com/gotjd709/AIffel_Daejeon/blob/master/exploration/%5BE8%5D-project_Movielens_Recommandation.ipynb)
+- [\[E8\]-project_Movielens_Recommandation](https://github.com/gotjd709/AIffel_Daejeon/blob/master/exploration/%5BE8%5D-project_Movie_Recommendation.ipynb)
 	- [데이터 정보](https://biology-statistics-programming.tistory.com/47?category=955669)
 
 
