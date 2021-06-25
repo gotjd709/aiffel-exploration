@@ -41,7 +41,7 @@ Image embedding
 - [\[E7\]-project_Find_Similar_Celebrities](https://github.com/gotjd709/AIFFEL_Exploration/blob/master/exploration/%5BE7%5D-project_Find_Similar_Celebrities.ipynb)
 	- [알게된 내용](https://biology-statistics-programming.tistory.com/44?category=955669) 
 
-Sementic segmentation
+Semntic segmentation
 - [\[E10\]-project_Shallow_DOF](https://github.com/gotjd709/AIFFEL_Exploration/blob/master/exploration/%5BE10%5D-project_Shallow_DOF.ipynb)
 	- [알게된 내용](https://biology-statistics-programming.tistory.com/54?category=955669) 
 
